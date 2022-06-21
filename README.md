@@ -9,11 +9,11 @@
 * 打开html后，在INPUT栏插入输入文本，点击EXCUTE即可
 * 修改代码后保存demo文件，直接在页面中点EXCUTE即可，不需要刷新或清缓存
 
-<img src="./readme_pic/image-20220621233831734.png"/>
+  <img src="./readme_pic/image-20220621233831734.png"/>
 
 * RELOAD按钮为刷新，不常用
 * 提供了HJ14作为示例
 
-<img src="./readme_pic/2.png"/>
+  <img src="./readme_pic/2.png"/>
 
 * readline()和print()的使用和牛客提供的一样
